@@ -1,10 +1,10 @@
 # Site settings | 网站设置
-title: yongtaovip
-SEOTitle: yongtaovip的博客 | yongtaovip
+title: 罗永涛的博客
+SEOTitle: 罗永涛的博客 | 罗永涛
 header-img: img/home-bg-he.png
-email: yongtaovip@qq.com
-description: "yongtaovip的博客"
-keyword: "yongtaovip, yongtaovip的博客, yongtao, yongtaovip, Python blog"
+email: 1797415358@qq.com
+description: "罗永涛的博客"
+keyword: "yongtaovip, 罗永涛的博客, yongtao, yongtaovip, 罗永涛的blog"
 url: "http://yongtaovip.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yongtaovip/yongtaovip.github.io.git" #code repository | 代码仓库
@@ -20,7 +20,7 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
-github_username: yongtaovip
+github_username: ZhiMaArtist_Maker
 
 
 
@@ -88,7 +88,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub·yongtaovip",
+        title: "GitHub·yongtaoBlogs",
         href: "http://yongtaovip.github.io"
     }
 ]
