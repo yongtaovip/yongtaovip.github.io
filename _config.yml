@@ -1,13 +1,13 @@
 # Site settings | 网站设置
-title: RainbomSea
-SEOTitle: RainbomSea的博客 | RaimbomSea
+title: yongtaovip
+SEOTitle: yongtaovip的博客 | yongtaovip
 header-img: img/home-bg-he.png
-email: RainbomSea@qq.com
-description: "RainbomSea的博客"
-keyword: "RainbomSea, RainbomSea的博客, rainbom sea, rainbomsea, Python blog"
-url: "http://RainbomSea.github.io"          # your host, for absolute URL
+email: yongtaovip@qq.com
+description: "yongtaovip的博客"
+keyword: "yongtaovip, yongtaovip的博客, yongtao, yongtaovip, Python blog"
+url: "http://yongtaovip.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/RainbomSea/RainbomSea.github.io.git" #code repository | 代码仓库
+github_repo: "https://github.com/yongtaovip/yongtaovip.github.io.git" #code repository | 代码仓库
 
 
 # Sidebar settings | 侧边栏设置
@@ -20,7 +20,7 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
-github_username: RainbomSea
+github_username: yongtaovip
 
 
 
@@ -60,9 +60,9 @@ gitalk:
   enable: true    # 是否开启Gitalk评论
   clientID: 99ecf1fdc9b7e357ebb7                            #生成的clientID
   clientSecret: 2670daea0c10372dd0296c371edc5ee4e73db43f    #生成的clientSecret
-  repo: RainbomSea.github.io    #仓库名称
-  owner: RainbomSea    # github用户名
-  admin: RainbomSea
+  repo: yongtaovip.github.io    #仓库名称
+  owner: yongtaovip    # github用户名
+  admin: yongtaovip
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
 
@@ -88,8 +88,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub·RainbomSea",
-        href: "http://RainbomSea.github.io"
+        title: "GitHub·yongtaovip",
+        href: "http://yongtaovip.github.io"
     }
 ]
 
