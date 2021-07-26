@@ -20,7 +20,10 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
-github_username: ZhiMaArtist_Maker
+github_username: yongtaovip
+csdn_username: weixin_42260996?spm=1001.2101.3001.5343
+juejin_username: 2761583360213213
+gitee_username: zhima_maker
 
 
 
@@ -88,8 +91,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub·yongtaoBlogs",
-        href: "http://yongtaovip.github.io"
+        title: "GitHub·yongtaovip",
+        href: "http://github.com/yongtaovip/"
     }
 ]
 
